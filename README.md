@@ -1,1 +1,1 @@
-# result-tracker-app
+Sveiki dėstytojau. Per praeitus 3 metus labai daug dirbau/mokiaus ir neturiu nieko, ką nebūtų gėda rodyti. Turiu tik įdęją programai, kurioje parodyčiau viską ką išmokau. Kai/jei ieškosiu darbo paskirsiu jai daugiau dėmesio, tačiau dabar tai tebus tuščia repozitorija.
